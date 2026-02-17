@@ -56,3 +56,15 @@ The system:
 
 Working prototype.  
 Designed as a portfolio project demonstrating AI workflow automation.
+
+## Screenshots
+
+### Email Input
+![Email Input](screenshots/input.png)
+
+### AI Output
+![AI Output](screenshots/output.png)
+
+### Apps Script Logic
+![Code](screenshots/code.png)
+
