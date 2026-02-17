@@ -60,11 +60,11 @@ Designed as a portfolio project demonstrating AI workflow automation.
 ## Screenshots
 
 ### Email Input
-![Email Input](screenshots/input.png)
+![input](screenshots/input.png)
 
 ### AI Output
-![AI Output](screenshots/output.png)
+![output](screenshots/output.png)
 
 ### Apps Script Logic
-![Code](screenshots/code.png)
+![code](screenshots/code.png)
 
